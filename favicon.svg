@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Teacup Puzzlers">
+  <rect width="64" height="64" rx="14" fill="#FFF8F0"/>
+  <path d="M12 26h30v12a12 12 0 0 1-12 12h-6a12 12 0 0 1-12-12z" fill="#5FA8A0"/>
+  <path d="M42 29h5a6 6 0 0 1 0 12h-5" fill="none" stroke="#E07A5F" stroke-width="4"/>
+  <path d="M18 12c0 4-3 4-3 8M27 12c0 4-3 4-3 8M36 12c0 4-3 4-3 8" stroke="#E07A5F" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
